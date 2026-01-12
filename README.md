@@ -72,7 +72,7 @@ streamlit run app.py
 
 ## 📊 Accuracy
 
-Your model already achieved **high accuracy** (e.g., 95%+) on the dataset. 🎉
+The model already achieved **high accuracy** (e.g., 95%+) on the dataset. 🎉
 This ensures reliable spam detection in real-world use.
 
 ---
@@ -89,8 +89,7 @@ Want to make it better?
 
 ## 📫 Contact
 
-Created by [Rida Aafreen](https://github.com/yourusername)
+Created by [Rida Aafreen](https://github.com/ridaafreen-er)
 
 
 
-Do you want me to do that?
